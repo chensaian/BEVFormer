@@ -13,10 +13,6 @@ from os import path as osp
 import sys
 sys.path.append('.')
 
-# test
-# awdaohfoahwfoaiwf
-# wadjoawijdoawjdoiawdj
-# awdaowdhoawhdoaihw
 
 def kitti_data_prep(root_path, info_prefix, version, out_dir):
     """Prepare data related to Kitti dataset.
